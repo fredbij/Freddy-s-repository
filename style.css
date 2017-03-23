@@ -1,0 +1,64 @@
+#ball {
+    width: 100px;
+    height: 100px;
+}
+#lball:hover {
+    font-size: 30px;
+}
+#lball {
+background-color: orange;
+}
+#lonzob {
+    font-style: italic;
+}
+#lonzob:hover {
+    background-color: blue;
+}
+p {
+    font-family: 'Barrio';
+}
+#monk { 
+    width: 100px;
+    height: 100px;
+}
+#mmonk {
+    font-size: 30px;
+}
+#mmonk:hover {
+    background-color: red;
+}
+#malikm:hover {
+    font-family: cursive;
+}
+#malikm:hover {
+    background-color: purple;
+}
+#hart {
+    width: 100px;
+    height: 100px;
+}
+#jhart:hover {
+    font-size: 30px;
+}
+#jhart:hover {
+    background-color: green;
+}
+#joshh:hover {
+    font-size:40px;
+}
+#joshh:hover {
+    background-color: yellow;
+}
+#faultz { 
+    width: 100px;
+    height: 100px;
+}
+#mfaultz:hover {
+    background-color: black;
+}
+#markellef {
+    background-color: yellow;
+}
+#markellef:hover {
+    font-style: italic;
+}
